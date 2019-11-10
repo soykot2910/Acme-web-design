@@ -1,0 +1,81 @@
+/* header */
+header{
+    background: #35424A;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 4px solid #E8491D;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+#highlight{
+    color:  #E8491D;
+}
+.nav-item{
+    padding: 0 10px;
+}
+.nav-link{
+    text-transform: uppercase;
+}
+/* banner */
+.bg-img{
+    background: url('img/showcase.jpg') center/cover no-repeat;
+    min-height: 70vh;
+}
+.heading-wrapper{
+    width: 70%;
+}
+.heading-wrapper h1{
+    line-height: 1.4;
+}
+.heading-wrapper h4{
+    color: rgb(238, 185, 171);
+}
+/* newsletter */
+.newsletter{
+    background: #35424A;
+}
+ input[type=submit]{
+    background: #E8491D;
+    border-color: #E8491D;
+    color: white;
+}
+/* work  */
+.work-description{
+    background: rgb(224, 224, 224);
+}
+.logo-img{
+    width: 100px;
+}
+.work-details{
+    width: 90%;
+}
+/* about  */
+.what-we-do{
+    background: #35424A;
+}
+/* service */
+#service{
+    background: rgb(247, 242, 242);
+}
+.service-single-wrapper{
+    background: rgb(224, 224, 224);
+}
+/* contact */
+.contact{
+    background: #35424A;
+}
+textarea{
+    height: 100px;
+}
+.submit{
+    background: #E8491D;
+    color: white;
+}
+/* end contact */
+/* end service */
+
+/* footer */
+footer{
+    background: #E8491D;
+    color: white;
+}
